@@ -1,4 +1,4 @@
-# Robust Multi-Band Sentinel-2 Median (QGIS Processing Script)
+# Multi-Band Sentinel-2 Median (QGIS Processing Script)
 
 A custom QGIS Processing tool designed to calculate the pixel-by-pixel temporal **median** across a collection of multi-band Sentinel-2 raster scenes. It natively supports variable image counts, processes all spectral bands automatically in a single execution loop, and provides an integrated GUI window within the native QGIS interface.
 
